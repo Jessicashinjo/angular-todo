@@ -1,0 +1,17 @@
+{
+  "name": "anuglar-todo",
+  "homepage": "https://github.com/Jessicashinjo/angular-todo",
+  "authors": [
+    "Jessica Wynn <Jessicashinjo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
